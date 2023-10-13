@@ -6,4 +6,4 @@
 - Shopping cart page
 - Login/register page
 
-[Watch the Video](https://www.youtube.com/watch?v=5NqluArhCio)
+[Here is the video of my project](https://www.youtube.com/watch?v=5NqluArhCio)
